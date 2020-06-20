@@ -1,0 +1,20 @@
+{ 
+ "0":{
+    "settings":{
+     "blinkt_colour":"blue"
+    },
+    "mapping":{
+    "a":"b",
+    "q": "test",
+    "w": "_LAYER_1"
+    }
+  },
+  "1":{
+    "settings":{
+      "blinkt_colour":"red"
+    },
+    "mapping":{
+      "a": "f"
+    }
+  }
+}
